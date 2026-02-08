@@ -1,11 +1,5 @@
 
-This is a fantastic project. Transitioning from your college report on **LLM Fine-Tuning** to a practical application like **MindfulChat** shows a great progression in your portfolio.
 
-Since you are a final-year AI & Data Science student, this README should highlight your **technical stack** and **system design** to impress recruiters or potential startup partners.
-
-Here is a professionally polished version of your README, optimized for GitHub with a clean structure and clear value proposition.
-
----
 
 # ## 🌿 MindfulChat: Clinical-Grade Conversational AI for Mental Wellness
 
@@ -103,18 +97,3 @@ Secure your API access:
 
 ---
 
-## 📄 License
-
-Distributed under the **MIT License**. See `LICENSE` for more information.
-
----
-
-### 👨‍💻 Developed by
-
-**Karthikeyan**
-*Final Year AI & Data Science Student | S.A. Engineering College*
-*AI & Cybersecurity Intern at C-DAC*
-
----
-
-**Would you like me to help you create a "Project Showcase" section with specific screenshots or GIFs to make this README even more visually appealing for your GitHub profile?**
